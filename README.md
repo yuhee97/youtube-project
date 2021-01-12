@@ -1,2 +1,2 @@
 # youtube-project
-# game & mukbang & beauty
+game & mukbang & beauty
